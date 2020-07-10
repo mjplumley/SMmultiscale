@@ -9,4 +9,4 @@ and derived from:
 Calkins, Michael A., et al. "A multiscale dynamo model driven by quasi-geostrophic convection." Journal of Fluid Mechanics 780 (2015): 143-166.
 
 
-The main time stepping loop and control of the parameters is located in SMdynamo_multiscale.py and all the background matrix creation and transfers are contained in SMdynamo_tools.py.  The control parameters are explained in the file and correspond with the control parameters in paper above.
+The main time stepping loop and parameter values are located in SMdynamo_multiscale.py and all the background matrix creation and transfers are contained in SMdynamo_tools.py.  The control parameters are explained in the file and correspond with the control parameters in paper above.
