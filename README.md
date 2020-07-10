@@ -10,3 +10,5 @@ Calkins, Michael A., et al. "A multiscale dynamo model driven by quasi-geostroph
 
 
 The main time stepping loop and parameter values are located in SMdynamo_multiscale.py and all the background matrix creation and transfers are contained in SMdynamo_tools.py.  The control parameters are explained in the file and correspond with the control parameters in paper above.
+
+The outputs of the code are txt files of the Nusselt number, L2 norm of the vertical velocity profile W, and L2 norm of the magnetic component Bx.  
